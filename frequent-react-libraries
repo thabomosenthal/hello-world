@@ -1,0 +1,9 @@
+What to install after installing React(JS)
+¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬¬
+"@emotion/react",
+"@emotion/styled",
+"@mui/icons-material",
+"@mui/material",
+"axios",
+"react-router-dom",
+"react-scroll",
