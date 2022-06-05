@@ -7,3 +7,5 @@ What to install after installing React(JS)
 "axios",
 "react-router-dom",
 "react-scroll",
+
+npm i @mui/material @emotion/react @emotion/styled @mui/icons-material axios react-router-dom react-scroll
